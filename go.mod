@@ -1,4 +1,4 @@
-module github.com/wired27/ap2-medical-protos-go-clean
+module github.com/wired27/advanced2-protos-go
 
 go 1.25.0
 
